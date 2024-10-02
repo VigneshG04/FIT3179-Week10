@@ -1,0 +1,383 @@
+Country,Continent,Gender,HDI
+Afghanistan,Asia,Male,0.535610873
+Albania,Europe,Male,0.793604613
+Algeria,Africa,Male,0.773257248
+Andorra,Europe,Male,
+Angola,Africa,Male,0.616557703
+Antigua and Barbuda,North America,Male,
+Argentina,South America,Male,0.835521148
+Armenia,Europe,Male,0.756110563
+Australia,Oceania,Male,0.962956483
+Austria,Europe,Male,0.923877356
+Azerbaijan,Europe,Male,0.753249711
+Bahamas,North America,Male,
+Bahrain,Asia,Male,0.89407466
+Bangladesh,Asia,Male,0.687568946
+Barbados,North America,Male,0.772530747
+Belarus,Europe,Male,0.802832
+Belgium,Europe,Male,0.946127575
+Belize,North America,Male,0.688837987
+Benin,Africa,Male,0.558101711
+Bhutan,Asia,Male,0.684476486
+Bolivia,South America,Male,0.704911026
+Bosnia and Herzegovina,Europe,Male,0.802005824
+Botswana,Africa,Male,0.699553277
+Brazil,South America,Male,0.754680006
+Brunei,Asia,Male,0.833025563
+Bulgaria,Europe,Male,0.796486006
+Burkina Faso,Africa,Male,0.470559026
+Burundi,Africa,Male,0.440934982
+Cabo Verde,Africa,Male,0.666122007
+Cambodia,Asia,Male,0.615205049
+Cameroon,Africa,Male,0.610395901
+Canada,North America,Male,0.941126183
+Central African Republic,Africa,Male,0.443253806
+Chad,Africa,Male,0.440888916
+Chile,South America,Male,0.867267868
+China,Asia,Male,0.773243024
+Colombia,South America,Male,0.755726924
+Comoros,Africa,Male,0.585432331
+Congo,Africa,Male,0.590449068
+Costa Rica,North America,Male,0.809722197
+Croatia,Europe,Male,0.859239831
+Cuba,North America,Male,0.774843635
+Cyprus,Europe,Male,0.907058666
+Czechia,Europe,Male,0.893197721
+Denmark,Europe,Male,0.956524411
+Djibouti,Africa,Male,
+Dominica,North America,Male,
+Dominican Republic,North America,Male,0.760780375
+Ecuador,South America,Male,0.745435732
+Egypt,Africa,Male,0.75526319
+El Salvador,North America,Male,0.684866967
+Equatorial Guinea,Africa,Male,
+Eritrea,Africa,Male,
+Estonia,Europe,Male,0.879365759
+Eswatini,Africa,Male,0.601355621
+Ethiopia,Africa,Male,0.518618804
+Fiji,Oceania,Male,0.75013651
+Finland,Europe,Male,0.944567946
+France,Europe,Male,0.906690802
+Gabon,Africa,Male,0.734791954
+Gambia,Africa,Male,0.51992186
+Georgia,Europe,Male,0.797741455
+Germany,Europe,Male,0.952180253
+Ghana,Africa,Male,0.649352665
+Greece,Europe,Male,0.900182194
+Grenada,North America,Male,
+Guatemala,North America,Male,0.649879506
+Guinea,Africa,Male,0.501452822
+Guinea-Bissau,Africa,Male,0.516530263
+Guyana,South America,Male,0.719594973
+Haiti,North America,Male,0.563765577
+Honduras,Asia,Male,0.633043539
+Hong Kong,Europe,Male,0.964310833
+Hungary,Europe,Male,0.850884145
+Iceland,Asia,Male,0.970604052
+India,Asia,Male,0.667813533
+Indonesia,Asia,Male,0.723345599
+Iran,Asia,Male,0.79971899
+Iraq,Europe,Male,0.728293315
+Ireland,Asia,Male,0.946695538
+Israel,Europe,Male,0.921975238
+Italy,Africa,Male,0.906110064
+Ivory Coast,North America,Male,0.581439618
+Jamaica,Asia,Male,0.710547842
+Japan,Asia,Male,0.936097221
+Jordan,Asia,Male,0.747658804
+Kazakhstan,Asia,Male,0.810586606
+Kenya,Africa,Male,0.592213974
+Kiribati,Oceania,Male,
+Kuwait,Asia,Male,0.823823695
+Kyrgyzstan,Asia,Male,0.698277778
+Lao,Asia,Male,0.622723509
+Latvia,Europe,Male,0.851825526
+Lebanon,Asia,Male,0.736555974
+Lesotho,Africa,Male,0.519143817
+Liberia,Africa,Male,0.512798524
+Libya,Africa,Male,0.726310597
+Liechtenstein,Europe,Male,
+Lithuania,Europe,Male,0.861661897
+Luxembourg,Europe,Male,0.931456058
+Madagascar,Africa,Male,0.512325749
+Malawi,Africa,Male,0.518874061
+Malaysia,Asia,Male,0.809075378
+Maldives,Asia,Male,0.76638536
+Mali,Africa,Male,0.449875276
+Malta,Europe,Male,0.925314241
+Marshall Islands,Oceania,Male,
+Mauritania,Africa,Male,0.581885717
+Mauritius,Africa,Male,0.811010462
+Mexico,North America,Male,0.761102122
+Micronesia,Oceania,Male,
+Moldova,Europe,Male,0.763199634
+Mongolia,Asia,Male,0.726425808
+Montenegro,Europe,Male,0.839623822
+Morocco,Africa,Male,0.721809682
+Mozambique,Africa,Male,0.464036211
+Myanmar,Asia,Male,0.598757287
+Namibia,Africa,Male,0.613057327
+Nepal,Asia,Male,0.620507697
+Netherlands,Europe,Male,0.956065754
+New Zealand,Oceania,Male,0.948211623
+Nicaragua,North America,Male,0.677703928
+Niger,Africa,Male,0.436370503
+Nigeria,Africa,Male,0.573601517
+North Macedonia,Europe,Male,0.789290229
+Norway,Europe,Male,0.966060981
+Oman,Asia,Male,0.83546697
+Pakistan,Asia,Male,0.581877317
+Palau,Oceania,Male,
+"Palestine, State of",Asia,Male,0.734872627
+Panama,North America,Male,0.798281932
+Papua New Guinea,Oceania,Male,0.577731745
+Paraguay,South America,Male,0.719878431
+Peru,South America,Male,0.781076189
+Philippines,Asia,Male,0.701549702
+Poland,Europe,Male,0.871513813
+Portugal,Europe,Male,0.867492871
+Qatar,Asia,Male,0.849982592
+Romania,Europe,Male,0.823464389
+Russian Federation,Asia,Male,0.81516103
+Rwanda,Africa,Male,0.546603488
+Saint Kitts and Nevis,North America,Male,
+Saint Lucia,North America,Male,0.710892671
+Saint Vincent and the Grenadines,North America,Male,0.761469
+Samoa,Oceania,Male,0.716499047
+San Marino,Europe,Male,
+Sao Tome and Principe,Africa,Male,0.643189149
+Saudi Arabia,Asia,Male,0.900720984
+Senegal,Africa,Male,0.542992333
+Serbia,Europe,Male,0.808468225
+Seychelles,Africa,Male,
+Sierra Leone,Africa,Male,0.505719508
+Singapore,Asia,Male,0.943210266
+Slovakia,Europe,Male,0.847723638
+Slovenia,Europe,Male,0.916243227
+Solomon Islands,Oceania,Male,
+South Africa,Africa,Male,0.726844169
+South Korea,Asia,Male,0.9471206
+South Sudan,Africa,Male,0.413258564
+Spain,Europe,Male,0.908603781
+Sri Lanka,Asia,Male,0.794880643
+Sudan,Africa,Male,0.535025904
+Suriname,South America,Male,0.727228714
+Sweden,Europe,Male,0.952156756
+Switzerland,Europe,Male,0.975611273
+Syrian Arab Republic,Asia,Male,0.609549665
+Tajikistan,Asia,Male,0.712813626
+Tanzania,Africa,Male,0.564766693
+Thailand,Asia,Male,0.795766338
+The Democratic Republic of the Congo,Africa,Male,0.507288188
+Timor-Leste,Asia,Male,0.633048484
+Togo,Africa,Male,0.586086092
+Tonga,Oceania,Male,0.754353802
+Trinidad and Tobago,North America,Male,0.813863715
+Tunisia,Africa,Male,0.748367539
+Turkey,Europe,Male,0.860285269
+Turkmenistan,Asia,Male,0.759567182
+Tuvalu,Oceania,Male,
+Uganda,Africa,Male,0.544620452
+Ukraine,Europe,Male,0.766191935
+United Arab Emirates,Asia,Male,0.920631429
+United Kingdom,Europe,Male,0.93393288
+United States,North America,Male,0.919186122
+Uruguay,South America,Male,0.79450292
+Uzbekistan,Asia,Male,0.744266009
+Vanuatu,Oceania,Male,
+Venezuela,South America,Male,0.690932232
+Viet Nam,Asia,Male,0.70208471
+Yemen,Asia,Male,0.529016004
+Zambia,Africa,Male,0.574296636
+Zimbabwe,Africa,Male,0.604054039
+Afghanistan,Asia,Female,0.36484023
+Albania,Europe,Female,0.799221622
+Algeria,Africa,Female,0.680221302
+Andorra,Europe,Female,
+Angola,Africa,Female,0.556745058
+Antigua and Barbuda,North America,Female,
+Argentina,South America,Female,0.833324995
+Armenia,Europe,Female,0.756949514
+Australia,Oceania,Female,0.93167223
+Austria,Europe,Female,0.905682295
+Azerbaijan,Europe,Female,0.733874991
+Bahamas,North America,Female,
+Bahrain,Asia,Female,0.828959683
+Bangladesh,Asia,Female,0.61737477
+Barbados,North America,Female,0.799110548
+Belarus,Europe,Female,0.812031188
+Belgium,Europe,Female,0.925048073
+Belize,North America,Female,0.671552426
+Benin,Africa,Female,0.491304048
+Bhutan,Asia,Female,0.641322529
+Bolivia,South America,Female,0.679814318
+Bosnia and Herzegovina,Europe,Female,0.753943386
+Botswana,Africa,Female,0.686186101
+Brazil,South America,Female,0.750013092
+Brunei,Asia,Female,0.819470894
+Bulgaria,Europe,Female,0.792403351
+Burkina Faso,Africa,Female,0.425128833
+Burundi,Africa,Female,0.412236237
+Cabo Verde,Africa,Female,0.653226941
+Cambodia,Asia,Female,0.569886597
+Cameroon,Africa,Female,0.540217006
+Canada,North America,Female,0.929499536
+Central African Republic,Africa,Female,0.359110957
+Chad,Africa,Female,0.339311717
+Chile,South America,Female,0.838413012
+China,Asia,Female,0.761168006
+Colombia,South America,Female,0.743729498
+Comoros,Africa,Female,0.521857496
+Congo,Africa,Female,0.551580285
+Costa Rica,North America,Female,0.806325603
+Croatia,Europe,Female,0.855338778
+Cuba,North America,Female,0.744772411
+Cyprus,Europe,Female,0.881957454
+Czechia,Europe,Female,0.883640143
+Denmark,Europe,Female,0.937319033
+Djibouti,Africa,Female,
+Dominica,North America,Female,
+Dominican Republic,North America,Female,0.771504074
+Ecuador,South America,Female,0.730715581
+Egypt,Africa,Female,0.665947414
+El Salvador,North America,Female,0.660206921
+Equatorial Guinea,Africa,Female,
+Eritrea,Africa,Female,
+Estonia,Europe,Female,0.898020476
+Eswatini,Africa,Female,0.592739587
+Ethiopia,Africa,Female,0.477551765
+Fiji,Oceania,Female,0.698350818
+Finland,Europe,Female,0.934283259
+France,Europe,Female,0.897519009
+Gabon,Africa,Female,0.66695499
+Gambia,Africa,Female,0.480518411
+Georgia,Europe,Female,0.803449379
+Germany,Europe,Female,0.931498431
+Ghana,Africa,Female,0.614164008
+Greece,Europe,Female,0.871930104
+Grenada,North America,Female,
+Guatemala,North America,Female,0.595718044
+Guinea,Africa,Female,0.426440797
+Guinea-Bissau,Africa,Female,0.447933316
+Guyana,South America,Female,0.704002156
+Haiti,North America,Female,0.506097786
+Honduras,Asia,Female,0.607425221
+Hong Kong,Europe,Female,0.941077517
+Hungary,Europe,Female,0.840092841
+Iceland,Asia,Female,0.946935585
+India,Asia,Female,0.566684748
+Indonesia,Asia,Female,0.680843112
+Iran,Asia,Female,0.704065865
+Iraq,Europe,Female,0.585138844
+Ireland,Asia,Female,0.934275848
+Israel,Europe,Female,0.914945896
+Italy,Africa,Female,0.879184172
+Ivory Coast,North America,Female,0.515563727
+Jamaica,Asia,Female,0.703788217
+Japan,Asia,Female,0.907973256
+Jordan,Asia,Female,0.663218429
+Kazakhstan,Asia,Female,0.808860452
+Kenya,Africa,Female,0.557213852
+Kiribati,Oceania,Female,
+Kuwait,Asia,Female,0.830933447
+Kyrgyzstan,Asia,Female,0.674734308
+Lao,Asia,Female,0.590907405
+Latvia,Europe,Female,0.872905527
+Lebanon,Asia,Female,0.649614298
+Lesotho,Africa,Female,0.511123839
+Liberia,Africa,Female,0.446593576
+Libya,Africa,Female,0.708031742
+Liechtenstein,Europe,Female,
+Lithuania,Europe,Female,0.887521885
+Luxembourg,Europe,Female,0.924607692
+Madagascar,Africa,Female,0.489879193
+Malawi,Africa,Female,0.502014032
+Malaysia,Asia,Female,0.794154156
+Maldives,Asia,Female,0.708976174
+Mali,Africa,Female,0.399133986
+Malta,Europe,Female,0.906805757
+Marshall Islands,Oceania,Female,
+Mauritania,Africa,Female,0.517783712
+Mauritius,Africa,Female,0.789107668
+Mexico,North America,Female,0.752508708
+Micronesia,Oceania,Female,
+Moldova,Europe,Female,0.770773099
+Mongolia,Asia,Female,0.748987477
+Montenegro,Europe,Female,0.823404193
+Morocco,Africa,Female,0.621251796
+Mozambique,Africa,Female,0.428013032
+Myanmar,Asia,Female,0.565270826
+Namibia,Africa,Female,0.615799013
+Nepal,Asia,Female,0.584364172
+Netherlands,Europe,Female,0.924997733
+New Zealand,Oceania,Female,0.924682807
+Nicaragua,North America,Female,0.647750656
+Niger,Africa,Female,0.364314532
+Nigeria,Africa,Female,0.495057927
+North Macedonia,Europe,Female,0.746188014
+Norway,Europe,Female,0.949899881
+Oman,Asia,Female,0.751838584
+Pakistan,Asia,Female,0.471396425
+Palau,Oceania,Female,
+"Palestine, State of",Asia,Female,0.655009064
+Panama,North America,Female,0.811685938
+Papua New Guinea,Oceania,Female,0.537933947
+Paraguay,South America,Female,0.712812675
+Peru,South America,Female,0.742054002
+Philippines,Asia,Female,0.6947065
+Poland,Europe,Female,0.878323947
+Portugal,Europe,Female,0.862546452
+Qatar,Asia,Female,0.865842414
+Romania,Europe,Female,0.818929278
+Russian Federation,Asia,Female,0.828474835
+Rwanda,Africa,Female,0.521187466
+Saint Kitts and Nevis,North America,Female,
+Saint Lucia,North America,Female,0.718726697
+Saint Vincent and the Grenadines,North America,Female,0.73874214
+Samoa,Oceania,Female,0.685493303
+San Marino,Europe,Female,
+Sao Tome and Principe,Africa,Female,0.583599404
+Saudi Arabia,Asia,Female,0.825883187
+Senegal,Africa,Female,0.474670177
+Serbia,Europe,Female,0.794081584
+Seychelles,Africa,Female,
+Sierra Leone,Africa,Female,0.451696771
+Singapore,Asia,Female,0.935256237
+Slovakia,Europe,Female,0.846502357
+Slovenia,Europe,Female,0.915401467
+Solomon Islands,Oceania,Female,
+South Africa,Africa,Female,0.685864456
+South Korea,Asia,Female,0.893687774
+South Sudan,Africa,Female,0.348198975
+Spain,Europe,Female,0.895714434
+Sri Lanka,Asia,Female,0.754666487
+Sudan,Africa,Female,0.465659505
+Suriname,South America,Female,0.727709999
+Sweden,Europe,Female,0.940969463
+Switzerland,Europe,Female,0.943709307
+Syrian Arab Republic,Asia,Female,0.502700292
+Tajikistan,Asia,Female,0.647971594
+Tanzania,Africa,Female,0.53248359
+Thailand,Asia,Female,0.80539431
+The Democratic Republic of the Congo,Africa,Female,0.448765594
+Timor-Leste,Asia,Female,0.580299039
+Togo,Africa,Female,0.497381322
+Tonga,Oceania,Female,0.728001834
+Trinidad and Tobago,North America,Female,0.801419799
+Tunisia,Africa,Female,0.69683006
+Turkey,Europe,Female,0.806205301
+Turkmenistan,Asia,Female,0.725895847
+Tuvalu,Oceania,Female,
+Uganda,Africa,Female,0.504881399
+Ukraine,Europe,Female,0.775709542
+United Arab Emirates,Asia,Female,0.87713227
+United Kingdom,Europe,Female,0.921594468
+United States,North America,Female,0.919688967
+Uruguay,South America,Female,0.812179016
+Uzbekistan,Asia,Female,0.702783954
+Vanuatu,Oceania,Female,
+Venezuela,South America,Female,0.679218478
+Viet Nam,Asia,Female,0.703772487
+Yemen,Asia,Female,0.262569632
+Zambia,Africa,Female,0.554427499
+Zimbabwe,Africa,Female,0.580303186

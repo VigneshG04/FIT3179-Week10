@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Gender Disparity in HDI",
+    "data": {"url": "Gender_Disparity.csv"},
+    "background": "#d4e4ff",
+    "mark": "line",
+    "width": {"step": 200},
+    "height": 500,
+    "encoding": {
+        "x": {
+            "field": "Gender",
+            "type": "ordinal",
+            "scale": {"padding": 0.5}
+        },
+        "y": {
+            "aggregate": "median",
+            "field": "HDI",
+            "type": "quantitative",
+            "title": "HDI"
+        },
+        "color": {
+            "field": "Country", 
+            "type": "nominal",
+            "scale": {"range": ["#A9A9A9"]}
+        },
+        "tooltip": {
+            {"field": "Country", "type": "nominal", "title": "Country"},
+            {"field "}
+        }
+        "opacity": {"value": 0.2}
+    }
+}
