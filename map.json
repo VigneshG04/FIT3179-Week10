@@ -47,7 +47,8 @@
                         "type": "threshold",
                         "domain": [0.2, 0.4, 0.6, 0.8],
                         "scheme": "purples"
-                    }
+                    },
+                    "legend": {"title": "2021 HDI"}
                 },
                 "tooltip": [
                     {"field": "Country", "type": "nominal", "title": "Country"},

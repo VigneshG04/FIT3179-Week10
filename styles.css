@@ -15,8 +15,8 @@ p {
 
 .container {
     display: grid;
-    grid-template-columns: 60% 35%;
-    gap: 5%;
+    grid-template-columns: 60% 38%;
+    gap:2%;
     height: 600px;
 }
 

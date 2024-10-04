@@ -44,11 +44,13 @@
         "x": {
             "field": "GNI_C_round",
             "type": "quantitative", 
-            "title": "Gross National Income per Capita (USD)"
+            "title": "Gross National Income per Capita (USD)",
+            "scale": {"domain": [0, 160000]}
         },
         "y": {
             "field": "Human Development Index (2021)", 
-            "type": "quantitative"
+            "type": "quantitative",
+            "scale": {"domain": [0, 1]}
         }
     },
     "layer": [
@@ -92,8 +94,7 @@
                 "baseline": "line-top",
                 "dx": -12,
                 "fontSize": 10,
-                "fontStyle": "bold",
-                "font": "Arial"
+                "fontStyle": "italic"
             },
             "transform": [
                 {"filter": "datum['Country'] == 'Liechtenstein' || datum['Country'] ==  'South Sudan' || datum['Country'] == 'Qatar' || datum['Country'] == 'United States' || datum['Country'] == 'Switzerland'"}
