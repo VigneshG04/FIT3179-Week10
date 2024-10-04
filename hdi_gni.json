@@ -94,16 +94,12 @@
                 "fontSize": 10,
                 "fontStyle": "italic"
             },
+            "transform": [
+                {"filter": "datum['Country'] == 'Liechtenstein' || datum['Country'] ==  'South Sudan' || datum['Country'] == 'Qatar' || datum['Country'] == 'United States' || datum['Country'] == 'Switzerland'"}
+            ],
             "encoding": {
                 "text": {"field": "Country", "type": "nominal"},
-                "color": {"value": "black"},
-                "opacity": {
-                    "condition": {
-                        "test": "datum['Country'] == 'Liechtenstein' || datum['Country'] ==  'South Sudan' || datum['Country'] == 'Qatar' || datum['Country'] == 'United States' || datum['Country'] == 'Switzerland'",
-                        "value" : 1
-                    },
-                    "value": 0
-                }
+                "color": {"value": "black"}
                 
             }
         }  
