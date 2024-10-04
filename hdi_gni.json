@@ -5,14 +5,39 @@
         "text": "HDI vs Gross National Income",
         "fontSize": 24
     },
-    "width": 400,
-    "height": 400,
-    "mark": "circle",
+    "width": 500,
+    "height": 500,
+    "background": "#e7f0ff",
     "params": [
         {
             "name": "continent_select",
-            "select": {"type": "point", "fields": ["Continent"]},
-            "bind": "legend"
+            "bind": {
+                "input": "select",
+                "options": [
+                    null, 
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "Oceania",
+                    "North America",
+                    "South America"
+                ],
+                "labels": [
+                    "Show All",
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "Oceania",
+                    "North America",
+                    "South America"
+                ],
+                "name": "Select Continent: "
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "continent_select == null || datum.Continent == continent_select"
         }
     ],
     "encoding": {
@@ -24,33 +49,63 @@
         "y": {
             "field": "Human Development Index (2021)", 
             "type": "quantitative"
-        },
-        "tooltip": [
-            {"field": "Country", "title": "Country", "type": "nominal"},
-            {"field": "Human Development Index (2021)", "title": "2021 HDI", "type": "quantitative"},
-            {"field": "GNI_C_round", "title": "Gross National Income per Capita (USD)", "type": "quantitative"}
-        ],
-        "color": {
-            "field": "Continent",
-            "type": "nominal",
-            "scale": {
-                "domain": [
-                    "Africa",
-                    "Asia",
-                    "Europe",
-                    "Oceania",
-                    "North America",
-                    "South America"
-                ],
-                "range": [
-                    "#1b9e77",
-                    "#d95f02",
-                    "#7570b3",
-                    "#e7298a",
-                    "#66a61e",
-                    "#e6ab02"
+        }
+    },
+    "layer": [
+        {
+            "mark": "circle",
+            "encoding": {
+                "color": {
+                    "field": "Continent",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                        "Africa",
+                        "Asia",
+                        "Europe",
+                        "Oceania",
+                        "North America",
+                        "South America"
+                        ],
+                        "range": [
+                            "#e41a1c",
+                            "#984ea3",
+                            "#ff7f00",
+                            "#00ff00",
+                            "#377eb8",
+                            "#a65628"
+                        ]
+                    }
+                },
+                "size": {"value": 65},
+                "tooltip": [
+                    {"field": "Country", "title": "Country", "type": "nominal"},
+                    {"field": "Human Development Index (2021)", "title": "2021 HDI", "type": "quantitative"},
+                    {"field": "GNI_C_round", "title": "Gross National Income per Capita ($USD)", "type": "quantitative"}
                 ]
             }
-        }
-        }
-  }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "line-top",
+                "dx": -12,
+                "fontSize": 10,
+                "fontStyle": "italic"
+            },
+            "encoding": {
+                "text": {"field": "Country", "type": "nominal"},
+                "color": {"value": "black"},
+                "opacity": {
+                    "condition": {
+                        "test": "datum['Country'] == 'Liechtenstein' || datum['Country'] ==  'South Sudan' || datum['Country'] == 'Qatar' || datum['Country'] == 'United States' || datum['Country'] == 'Switzerland'",
+                        "value" : 1
+                    },
+                    "value": 0
+                }
+                
+            }
+        }  
+    ]
+}
