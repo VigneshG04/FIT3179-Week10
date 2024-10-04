@@ -92,7 +92,8 @@
                 "baseline": "line-top",
                 "dx": -12,
                 "fontSize": 10,
-                "fontStyle": "italic"
+                "fontStyle": "bold",
+                "font": "Arial"
             },
             "transform": [
                 {"filter": "datum['Country'] == 'Liechtenstein' || datum['Country'] ==  'South Sudan' || datum['Country'] == 'Qatar' || datum['Country'] == 'United States' || datum['Country'] == 'Switzerland'"}
