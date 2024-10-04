@@ -5,8 +5,8 @@
         "text": "HDI vs Gross National Income",
         "fontSize": 24
     },
-    "width": 500,
-    "height": 500,
+    "height":  "container",
+    "width": "container",
     "background": "#e7f0ff",
     "params": [
         {

@@ -4,8 +4,8 @@
         "text": "Human Development Index (2021)",
         "fontSize": 35
     },
-    "width": 1500,
-    "height": 825,
+    "height":  "container",
+    "width": "container",
     "projection": {"type": "equalEarth"},
     "background": "#e7f0ff",
     "layer": [
