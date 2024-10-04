@@ -45,7 +45,7 @@
             "field": "GNI_C_round",
             "type": "quantitative", 
             "title": "Gross National Income per Capita (USD)",
-            "scale": {"domain": [0, 175000]}
+            "scale": {"type": "linear", "domain": [0, 175000]}
         },
         "y": {
             "field": "Human Development Index (2021)", 
